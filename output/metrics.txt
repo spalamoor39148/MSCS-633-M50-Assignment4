@@ -1,0 +1,18 @@
+Dataset shape: (284807, 31)
+Fraud ratio: 0.001727
+ROC-AUC: 0.9500
+PR-AUC: 0.1955
+
+Confusion Matrix:
+[[56778    86]
+ [   65    33]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9989    0.9985    0.9987     56864
+           1     0.2773    0.3367    0.3041        98
+
+    accuracy                         0.9973     56962
+   macro avg     0.6381    0.6676    0.6514     56962
+weighted avg     0.9976    0.9973    0.9975     56962
