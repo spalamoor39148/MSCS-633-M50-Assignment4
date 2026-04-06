@@ -100,6 +100,8 @@ PR-AUC: 0.1955
 - scaler.joblib
 
 ---
+<img width="2066" height="828" alt="image" src="https://github.com/user-attachments/assets/a5919122-c2ec-4193-8ed2-4af0c20e5e89" />
+
 
 ## Challenges
 1. Handling highly imbalanced dataset
